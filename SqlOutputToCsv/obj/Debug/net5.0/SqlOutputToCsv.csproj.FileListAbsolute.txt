@@ -1,0 +1,16 @@
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.exe
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.deps.json
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.runtimeconfig.json
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.runtimeconfig.dev.json
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.dll
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\ref\SqlOutputToCsv.dll
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\bin\Debug\net5.0\SqlOutputToCsv.pdb
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.AssemblyInfo.cs
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.dll
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\ref\SqlOutputToCsv.dll
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.pdb
+C:\Desenvolvimento\Meus Projetos\teste\SqlToCsv\SqlOutputToCsv\obj\Debug\net5.0\SqlOutputToCsv.genruntimeconfig.cache

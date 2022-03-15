@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlOutputToCsv", "SqlOutputToCsv\SqlOutputToCsv.csproj", "{9A0CD8A9-0E0A-4730-BD2A-870827599EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlOutputToCsv.Test", "SqlOutputToCsv.Test\SqlOutputToCsv.Test.csproj", "{CB0EFF72-721D-4506-AA06-C808C9A82130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0CD8A9-0E0A-4730-BD2A-870827599EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0CD8A9-0E0A-4730-BD2A-870827599EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0CD8A9-0E0A-4730-BD2A-870827599EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0CD8A9-0E0A-4730-BD2A-870827599EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0EFF72-721D-4506-AA06-C808C9A82130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0EFF72-721D-4506-AA06-C808C9A82130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0EFF72-721D-4506-AA06-C808C9A82130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0EFF72-721D-4506-AA06-C808C9A82130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E125039-954D-428F-8094-24E403432AC5}
+	EndGlobalSection
+EndGlobal
